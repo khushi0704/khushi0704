@@ -1,5 +1,5 @@
 <h2>Hola!Tech Enthusiasts👋</h2>
-<img align="right" alt="GIF" src="https://media.giphy.com/media/xT39CV47COkGPZO3HG/giphy.gif" width="400"/>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/1XCcD9VLQZ2Io/giphy.gif" width="400"/>
 
 <h3> 💻 About Me </h3>
 

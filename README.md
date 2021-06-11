@@ -3,7 +3,7 @@
 
 <h3> 💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Web Development.
+- 🔭 &nbsp; I’m currently doing Open source Contributions & Competitive Coding.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science
 - ✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles.

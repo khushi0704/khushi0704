@@ -11,8 +11,8 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | C/C++
-- 🌐 &nbsp; HTML | CSS | JavaScript 
+- 💻 &nbsp; Python | C/C++ | Dart
+- 🌐 &nbsp; HTML | CSS | JavaScript | Tkinter
 - 🛢 &nbsp; MySQL | MongoDB
 - 🔧 &nbsp; Canva | Visual Studio code | Git
 

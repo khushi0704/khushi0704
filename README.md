@@ -1,4 +1,5 @@
 <h2>Hola!Tech Enthusiasts👋</h2>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=khushi0704&label=Views&color=blue&style=plastic" alt="khushi" /> </p>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/1XCcD9VLQZ2Io/giphy.gif" width="400"/>
 
 <h3> 💻 About Me </h3>

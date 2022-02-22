@@ -4,11 +4,11 @@
 
 <h3> 💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently doing Open source Contributions & Competitive Coding.
+- 🔭 &nbsp; currently focussing on Open source Contributions & Competitive Coding.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science
-- ✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles.
-- ☕ &nbsp; I believe, a perfect cup of coffee can be the ultimate solution for any stress. 
+- ✍️ &nbsp; Watching tech talks & technology related videos
+- ☕ &nbsp; I believe, hardwork & consistency with a blend of smartstudy can be a perfect cup of solution to stress.
 
 <h3>🛠 Tech Stack</h3>
 

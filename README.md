@@ -4,16 +4,16 @@
 
 <h3> 💻 About Me </h3>
 
-- 🔭 &nbsp; currently focussing on Open source Contributions & Competitive Coding.
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science
+- 🔭 &nbsp; currently in my final year and focussing on Data Structures & Algorithms.
+- 🤔 &nbsp; Exploring new technologies like AI/ML , Data Science . 
+- 🎓 &nbsp; Exploring the MERN stack for developing projects.
 - ✍️ &nbsp; Watching tech talks & technology related videos
 - ☕ &nbsp; I believe, hardwork & consistency with a blend of smartstudy can be a perfect cup of solution to stress.
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | C/C++ | Dart
-- 🌐 &nbsp; HTML | CSS | JavaScript | Tkinter | Flutter
+- 💻 &nbsp; C/C++ | Python | Java 
+- 🌐 &nbsp; HTML | CSS | JavaScript | Tkinter | Flutter | NodeJS | ReactJS 
 - 🛢 &nbsp; MySQL | MongoDB
 - 🔧 &nbsp; Canva | Visual Studio code | Git
 

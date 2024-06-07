@@ -4,10 +4,10 @@
 
 <h3> 💻 About Me </h3>
 
-- 🔭 &nbsp; currently in my final year and focussing on Data Structures & Algorithms.
+- 🔭 &nbsp; Just graduated and preparing myself for the corporate world !
 - 🤔 &nbsp; Exploring new technologies like AI/ML , Data Science . 
 - 🎓 &nbsp; Exploring the MERN stack for developing projects.
-- ✍️ &nbsp; Watching tech talks & technology related videos
+- ✍️ &nbsp; Watching tech talks & technology related videos.
 - ☕ &nbsp; I believe, hardwork & consistency with a blend of smartstudy can be a perfect cup of solution to stress.
 
 <h3>🛠 Tech Stack</h3>
